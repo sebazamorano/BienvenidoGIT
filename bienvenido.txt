@@ -1,4 +1,4 @@
 Hola a todos Bienvenidos a GIT!!!
 
 
-GIT es un control de version excelente.
+GIT es un control de version excelente y es el mas popular del mundo.
